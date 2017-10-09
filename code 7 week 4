@@ -1,3 +1,4 @@
+from math import sqrt
 X = 2
 Y = 4
 print(“The product of “, x, “and”, y, “is”, x * y)
