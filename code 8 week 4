@@ -1,1 +1,6 @@
 Hello ____, next year you will be ____ years old!
+
+name = input (" whats your name")
+age = input(" How old are you?")
+
+print (" Hello ", name, ", next year you will be",age,"years old!"
