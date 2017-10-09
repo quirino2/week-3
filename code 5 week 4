@@ -1,4 +1,4 @@
-x = 19.93
-y = 20.00
-z = ( " the answer is: (y – x")
-print(z,"%.2f")
+x=19.93
+y=20.00
+z= y-x
+print("%.2f" %z)
